@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596710042514",
+    "project_id": "app-presupuestos-73542",
+    "storage_bucket": "app-presupuestos-73542.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596710042514:android:36ea3b31c1e4c96229af4b",
+        "android_client_info": {
+          "package_name": "com.example.app_presupuestos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596710042514-kovghp1ar6ecdhhh4th911tochp29c78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPa8zvF5s1x7cnxKexXneLR8_baoTKWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596710042514-kovghp1ar6ecdhhh4th911tochp29c78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
